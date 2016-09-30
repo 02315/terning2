@@ -1,2 +1,2 @@
 # terning2
-dkrug@dtu.dk rubinen22
+dkrug rubinen22
