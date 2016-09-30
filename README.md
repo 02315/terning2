@@ -1,2 +1,2 @@
 # terning2
-dkrug rubinen22
+dkrug rubinen22 Daniel
